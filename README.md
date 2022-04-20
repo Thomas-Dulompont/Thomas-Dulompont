@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🚀, I'm Thomas</h1>
 <h3 align="center">Young web developer!</h3>
 
-- 🔭 I’m currently working on [InteractiveMap](https://github.com/Thomas-Dulompont/InteractiveMap)
+- 🔭 I’m currently working on [SiriusApp](https://github.com/Thomas-Dulompont/SiriusApp)
 
 - 🌱 I’m currently learning **Swift & SwiftUI**
 
