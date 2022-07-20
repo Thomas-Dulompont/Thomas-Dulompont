@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🚀, I'm Thomas</h1>
 <h3 align="center">Young web developer!</h3>
 
-- 🔭 I’m currently working on [WeHobby](https://github.com/Thomas-Dulompont/WeHobby)
+- 🔭 I’m currently working on [new version of my Portfolio](https://github.com/Thomas-Dulompont/Portfolio-V2)
 
-- 🌱 I’m currently learning **Swift & SwiftUI**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://thomasdlmp.fr](https://thomasdlmp.fr)
 
