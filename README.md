@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [new brief](https://github.com/Thomas-Dulompont/Brief2-Gestion-de-l-inventaire-SI)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data Analyse**
 
 - 👨‍💻 All of my projects are available at [https://thomasdlmp.fr](https://thomasdlmp.fr)
 
