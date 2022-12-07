@@ -1,7 +1,5 @@
 <h1 align="center">Hi 🚀, I'm Thomas</h1>
-<h3 align="center">Young web developer!</h3>
-
-- 🔭 I’m currently working on [new brief](https://github.com/Thomas-Dulompont/Brief2-Gestion-de-l-inventaire-SI)
+<h3 align="center">Young python developer!</h3>
 
 - 🌱 I’m currently learning **Data Analyse**
 
