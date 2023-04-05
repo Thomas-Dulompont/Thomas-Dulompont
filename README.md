@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🚀, I'm Thomas</h1>
 <h3 align="center">Young python developer!</h3>
 
-- 🌱 I’m currently learning **Data Analyse**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://thomasdlmp.fr](https://thomasdlmp.fr)
 
